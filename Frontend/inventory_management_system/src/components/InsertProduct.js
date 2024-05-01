@@ -91,3 +91,4 @@ export default function InsertProduct() {
         </div>
     )
 }
+//inserting product
