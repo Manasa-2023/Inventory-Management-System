@@ -114,3 +114,4 @@ export default function InsertProduct() {
         </div>
     )
 }
+//details of the product
